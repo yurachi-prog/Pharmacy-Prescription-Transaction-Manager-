@@ -6,8 +6,8 @@ This program is a Pharmacy Prescription Transaction Manager designed with a grap
 ## 🫸💥🫷 Meet The Team!
 ---
 - Trisha Eunice C. Makigod - Full-stack development
-- Shenna Quijada - FrontEnd
-- Hannah Dotillos - FronEnd 
+- Shenna Quijada -  front-end developer
+- Hannah Dotillos - front-end developer
 
 ## 📦 How to Run The Program
 ---
