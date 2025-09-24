@@ -20,7 +20,7 @@ You can either:
 
 ### 2️⃣ Run the file
  - Open any IDE software that you have and import or drag the project after you extract the zip or clone the repo using Git
- - Wide open the src/main/java
+ - Wide open file named src/main/java
  - you can see a package named.com.pharmacy.transcriptionmanager
  - then run the java file named PharmacyTranscriptionManagerApp for shortcuts hold alt + shift + x and press j
  - Run the GUI program and enjoy!
