@@ -2,13 +2,12 @@
 ---
 
 This program is a Pharmacy Prescription Transaction Manager designed with a graphical user interface (GUI) that integrates both front-end and back-end components. It leverages file handling techniques to securely store and retrieve prescription data, inventory records, patient information, and transaction logs. The system streamlines pharmacy operations by reducing manual paperwork and speeding up service delivery while offering an adaptable, easy-to-use, and secure platform that supports effective workload management. This comprehensive approach ensures timely, reliable, and safe pharmacy services.
----
 
 ## 🫸💥🫷 Meet The Team!
 ---
-• Trisha Eunice C. Makigod - Full-stack development
-• Shenna Quijada - FrontEnd
-• Hannah Dotillos - FronEnd 
+- Trisha Eunice C. Makigod - Full-stack development
+- Shenna Quijada - FrontEnd
+- Hannah Dotillos - FronEnd 
 
 ## 📦 How to Run The Program
 ---
